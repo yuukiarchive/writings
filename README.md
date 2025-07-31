@@ -1,4 +1,4 @@
-# yuuki's texts
+# yuuki's writings
 
 * Blogs
 * [Wikinder](https://wikinder.org/yuuki)
